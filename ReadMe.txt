@@ -19,7 +19,7 @@ Then my friend, this hack is for you!
 	Simply patch the .bps file to your ROM ("Metroid Fusion (U).gba" or similar) either through
 	your Emulator or using Flips Patcher. If there are any bugs, please be sure to log them and
 
-		** This Hack only effect the English Language Text. 
+		** This Hack only effects the English Language Text. 
 		   Every other language is unchanged.
 
 ~~~~~~
