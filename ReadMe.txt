@@ -47,7 +47,8 @@ Then my friend, this hack is for you!
 	- References to Sci-Fi Materials/Culture
 	- References to Metal Gear Solid (The most gratuitous conversations. Sorry)
 
-	*** It should be noted that as of current, once a Navigation Room is interacted with, it 		cannot be skipped or closed. If you interact with a Machine, but didn't mean to, best bet is to 	pick the MDT Briefing as it is usually the shortest. This is currently being looked into and 	will be the apart of the first patch.
+	*** It should be noted that as of current, once a Navigation Room is interacted with, it cannot be skipped or closed.
+	If you interact with a Machine, but didn't mean to, best bet is to pick the MDT Briefing as it is usually the shortest. This is currently being looked into and 	will be the apart of the first patch.
 
 ==============================
 	IMPORTANT NOTE
@@ -69,14 +70,15 @@ Then my friend, this hack is for you!
 
 	---Primary---
 	* All story dialogues have been touched up and rewritten
-	* Optional Dialogues are almost all completely new unless deemed inapropriate for the Main 		Story. Length of dialogues may vary.
-	* Instead of "Confirm Mission Objective", you are given a choice between MDT Nav Conversations, 	or OP Nav Conversations. MDT is the Main Briefing for the event you're on, and OP is the 	Optional Side-Conversation for that event.
+	* Optional Dialogues are almost all completely new unless deemed inapropriate for the Main Story. Length of dialogues may vary.
+	* Instead of "Confirm Mission Objective", you are given a choice between MDT Nav Conversations, or OP Nav Conversations.
+	  MDT is the Main Briefing for the event you're on, and OP is the Optional Side-Conversation for that event.
 
 	---Secondary---
 	* Tweaked Samus's Palette around for fun (room sprites only, no cutscenes. Don't know where
-	those are in the rom). Visors shift color form Blue to Green the more suits you acquire. May be 
-	reverted back in future releases.
+	  those are in the rom). Visors shift color form Blue to Green the more suits you acquire. May be 
+	  reverted back in future releases.
 	* Made use of a Prototype room by altering it's design to house a moved hidden E-Tank (If
-	you've played Fusion, you'll know which one it is.)
+	  you've played Fusion, you'll know which one it is.)
 	* QOL: Some 100% Rooms have been simplified because those rooms can go to hell. Specifically
-	Crumble Block City and Babies First Shinespark Chain.
+	  Crumble Block City and Babies First Shinespark Chain.
