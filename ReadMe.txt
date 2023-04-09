@@ -4,7 +4,7 @@
 (The Fusion Dialogue Overhaul)
 
 Author: TheLucidGamer
-	Ver: 0.1.0
+	Ver: 1.0.0
 
 --------------------------------
     DESC:
